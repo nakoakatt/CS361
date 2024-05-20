@@ -1,12 +1,4 @@
-Group 14 Ground Rules
-
-We will use Microsoft Teams as our main method of day-to-day communication and will expect replies within 24 hours unless unavailability has been previously discussed. 
-For any group work, we can assign tasks to each member to ensure work is being evenly divided among ourselves. 
-Respectful communication, speaking respectfully and being open-minded
-Effective collaboration, contributing fairly, meeting deadlines, and management of time effectively.
-Clear communication, staying positive, supportive, and civil 
-Give any constructive feedback/suggestions with nonjudgmental language 
-If a team member is confused about a task, communicate to clear confusion and ask questions to have a better understanding.
+Communication contract
 
 Requesting Data from the Microservice
 
